@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">CommunicationActivities</string>
+    <string name="app_name">Communication between activities</string>
+    <string name="tv_name_str">Name:</string>
+    <string name="btn_verify_str">Verify</string>
+    <string name="tv_result_str">Result</string>
+    <string name="tv_greeting_str1">Hi </string>
+    <string name="tv_greeting_str2">, do you agree with the terms?</string>
+    <string name="btn_agree_str">Agree</string>
+    <string name="btn_refuse_str">Refuse</string>
 </resources>
